@@ -4,7 +4,7 @@ It is a simple application that acts as a bridge between Tiktok and Minecraft Se
 ## 🆕 Upcoming in V2
 - GUI (In Progress)
 - Adding a bunch of commands such as triggering keyboard input upon gifting.
-- User Configuration 
+- User configuration -> Saving username, ip, password, etc...
 - User friendly gifting configuration (better than old one that is edited inside the code itself using if-else statement)
 
 ## How to use?
