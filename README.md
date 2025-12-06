@@ -12,7 +12,7 @@ It is a simple application that acts as a bridge between Tiktok and Minecraft Se
 - For the UI, it was made using customtkinter.
 
 ## ⚡ How to install and use?
-> 1. Download the repository or .zip files in the download section to get started.
+> 1. Download and extract the .zip files in the downloads section.
 > 2. Double click 'viewer-control.exe' to get started.
 
 For more information, see [Documentation](https://mirai1st.github.io/viewer-control/documentation)
