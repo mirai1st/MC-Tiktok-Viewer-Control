@@ -1,6 +1,8 @@
 ## 🚀 What is this?
 It is a simple application that acts as a bridge between Tiktok and Minecraft Server! Powered by TiktokLiveConnector (Phyton) and Minecraft RCON.
 
+> It currently under development.
+
 ## 🆕 Upcoming in V2
 - GUI (In Progress)
 - Adding a bunch of commands such as triggering keyboard input upon gifting.
