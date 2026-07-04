@@ -1,7 +1,8 @@
+> ## ⚠️ Note: This project is no longer being developed because I decided to rebuild the same system in Node.js with additional features.
+
+
 ## 🚀 What is this?
 It is a simple application that acts as a bridge between Tiktok and Minecraft Server! Powered by TiktokLiveConnector (Phyton) and Minecraft RCON.
-
-> It is currently under development.
 
 ## 🆕 Upcoming in V2
 - GUI (In Progress)
