@@ -1,0 +1,63 @@
+{
+    "PlayerName": {
+        "name": [
+            "Mirai1st"
+        ]
+    },
+
+    "Config": {
+        "PlayerRandomizer": false
+    },
+
+    "GiftID": {
+        "Finger Heart": {
+            "repeat_delay": 0.5,
+            "commands": [
+                "effect give {player} minecraft:poison 10 1"
+            ],
+            "key_command": "none"
+        },
+        "Doughnut": {
+            "repeat_delay": 0.5,
+            "commands": [
+                "execute at {player} run summon minecraft:lightning_bolt"
+            ],
+            "key_command": "none"
+        },
+        "Better Luck": {
+            "repeat_delay": 0.5,
+            "commands": [
+                "execute at {player} run summon minecraft:zombie"
+            ],
+            "key_command": "none"
+        },
+        "Rosa": {
+            "repeat_delay": 0.5,
+            "commands": [
+                "item replace entity {player} weapon.mainhand with minecraft:air"
+            ],
+            "key_command": "none"
+        },
+        "New Year Keyboard": {
+            "repeat_delay": 0.5,
+            "commands": [
+                "execute at {player} run summon minecraft:creeper"
+            ],
+            "key_command": "none"
+        },
+        "Rose": {
+            "repeat_delay": 0.5,
+            "commands": [
+                "effect give {player} minecraft:regeneration 10 2"
+            ],
+            "key_command": "none"
+        },
+        "Fest Pop": {
+            "repeat_delay": 0.5,
+            "commands": [
+                "effect give {player} minecraft:hunger 10 2"
+            ],
+            "key_command": "none"
+        }
+    }
+}
