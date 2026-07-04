@@ -1,4 +1,4 @@
-> ## ⚠️ Note: This project is no longer being developed because I decided to rebuild the same system in Node.js with additional features.
+> ### ⚠️ Note: This project is no longer being developed because I decided to rebuild the same system in Node.js with additional features.
 
 
 ## 🚀 What is this?
