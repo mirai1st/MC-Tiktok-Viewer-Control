@@ -15,7 +15,7 @@ It is a simple application that acts as a bridge between Tiktok and Minecraft Se
 
 ## ⚡ How to install and use?
 > 1. Download and extract the .zip files in the downloads section.
-> 2. Double click 'viewer-control.exe' to get started.
+> 2. Run 'main.py' using phyton.
 
 For more information, see [Documentation](https://mirai1st.github.io/viewer-control/documentation)
 
